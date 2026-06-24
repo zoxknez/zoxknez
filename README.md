@@ -1,4 +1,4 @@
-# 👋 Pozdrav, ja sam zoxknez!
+# 👋 Pozdrav, ja sam o0o0o0o!
 
 <div align="center">
   <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1F6FEB&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Open+Source+Enthusiast;Problem+Solver;AI+Coding+Advocate">
@@ -23,7 +23,7 @@ Profesionalan developer sa strašću za **open source**, **automacijom** i **AI-
 <div align="center">
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-@KoronVirus-1DA1F2?logo=twitter&logoColor=white)](https://x.com/KoronVirus)
-[![GitHub Badge](https://img.shields.io/badge/GitHub-zoxknez-black?logo=github&logoColor=white)](https://github.com/zoxknez)
+[![GitHub Badge](https://img.shields.io/badge/GitHub-o0o0o0o-black?logo=github&logoColor=white)](https://github.com/o0o0o0o)
 [![Portfolio Badge](https://img.shields.io/badge/Portfolio-mojportfolio.vercel.app-blue?logo=vercel&logoColor=white)](https://mojportfolio.vercel.app)
 [![Email Badge](https://img.shields.io/badge/Email-Contact%20Me-red?logo=gmail&logoColor=white)](mailto:contact@example.com)
 
@@ -31,7 +31,7 @@ Profesionalan developer sa strašću za **open source**, **automacijom** i **AI-
 
 ---
 
-## 🛠️ Veštinovjenosti & Tehnologije
+## 🛠️ Veštine & Tehnologije
 
 ### 💻 Programski jezici
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -61,11 +61,11 @@ Profesionalan developer sa strašću za **open source**, **automacijom** i **AI-
 ## 📊 GitHub Statistika
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zoxknez&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=o0o0o0o&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zoxknez&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=o0o0o0o&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
 </div>
 
 ---
@@ -73,20 +73,20 @@ Profesionalan developer sa strašću za **open source**, **automacijom** i **AI-
 ## 🔥 Contribution Streak
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=zoxknez&theme=tokyonight" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=o0o0o0o&theme=tokyonight" alt="GitHub Streak Stats" />
 </div>
 
 ---
 
-## 🏆 GitHub Dostignu­ća
+## 🏆 GitHub Dostignuća
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zoxknez&theme=tokyonight&no-frame=true&row=1" alt="GitHub Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=o0o0o0o&theme=tokyonight&no-frame=true&row=1" alt="GitHub Trophy" />
 </div>
 
 ---
 
-## 📌 Obrije­šeni Projekti
+## 📌 Istaknuti Projekti
 
 <div align="center">
 
@@ -94,12 +94,12 @@ Profesionalan developer sa strašću za **open source**, **automacijom** i **AI-
 
 | Projekat | Opis | Jezici |
 |----------|------|--------|
-| **[ai-coding-rules](https://github.com/zoxknez/ai-coding-rules)** | Komprehenzivne AI coding best practices i pravila | Shell, Markdown |
-| **[KorisneWindowsPowerShellSkripte](https://github.com/zoxknez/KorisneWindowsPowerShellSkripte)** | Korisni PowerShell scripti za Windows automatizaciju | PowerShell |
-| **[Twitter-X-Block-Manager](https://github.com/zoxknez/Twitter-X-Block-Manager)** | Upravljač za blokiranje na Twitter/X platformi | JavaScript |
-| **[post-vibe-audit](https://github.com/zoxknez/post-vibe-audit)** | Analiza i audit društvenih medija postova | Python |
-| **[metabot](https://github.com/zoxknez/metabot)** | Inteligentni bot sa metaprogramming mogućnostima | JavaScript |
-| **[legalniservisidownloadvideo](https://github.com/zoxknez/legalniservisidownloadvideo)** | Alatka za preuzimanje i obradu video sadržaja | Python |
+| **[ai-coding-rules](https://github.com/o0o0o0o/ai-coding-rules)** | Komprehenzivne AI coding best practices i pravila | Shell, Markdown |
+| **[KorisneWindowsPowerShellSkripte](https://github.com/o0o0o0o/KorisneWindowsPowerShellSkripte)** | Korisni PowerShell scripti za Windows automatizaciju | PowerShell |
+| **[Twitter-X-Block-Manager](https://github.com/o0o0o0o/Twitter-X-Block-Manager)** | Upravljač za blokiranje na Twitter/X platformi | JavaScript |
+| **[post-vibe-audit](https://github.com/o0o0o0o/post-vibe-audit)** | Analiza i audit društvenih medija postova | Python |
+| **[metabot](https://github.com/o0o0o0o/metabot)** | Inteligentni bot sa metaprogramming mogućnostima | JavaScript |
+| **[legalniservisidownloadvideo](https://github.com/o0o0o0o/legalniservisidownloadvideo)** | Alatka za preuzimanje i obradu video sadržaja | Python |
 
 </div>
 
@@ -143,9 +143,9 @@ Aktivnost:
 
 **[Poseti moj portfolio](https://mojportfolio.vercel.app)** za sve projekte i načine kontakta
 
-Ili me pratite na društvenim mrežama:
+Ili mi pošalji poruku na društvenim mrežama:
 - 🐦 **Twitter**: [@KoronVirus](https://x.com/KoronVirus)
-- 💼 **GitHub**: [@zoxknez](https://github.com/zoxknez)
+- 📋 **GitHub**: [@o0o0o0o](https://github.com/o0o0o0o)
 
 </div>
 
@@ -155,7 +155,7 @@ Ili me pratite na društvenim mrežama:
 
 <div align="center">
 
-![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=zoxknez&theme=tokyo-night&hide_border=true)
+![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=o0o0o0o&theme=tokyo-night&hide_border=true)
 
 </div>
 
@@ -165,14 +165,10 @@ Ili me pratite na društvenim mrežama:
 
 ### Zahvaljujem što si prosledio kroz moj profil! 👋
 
-Ako ti se dopada moj rad, molim te: **[⭐ Prati me na GitHub-u](https://github.com/zoxknez)** 
-
 Redovno objavljujem nove projekte i updates!
 
----
-
 <p>
-  <img src="https://komarev.com/ghpvc/?username=zoxknez&label=Profile%20Visitors&color=blue&style=plastic" alt="Visitors" />
+  <img src="https://komarev.com/ghpvc/?username=o0o0o0o&label=Profile%20Visitors&color=blue&style=plastic" alt="Visitors" />
 </p>
 
 </div>
