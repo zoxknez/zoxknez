@@ -1,11 +1,15 @@
 <!-- Language Selector -->
-<div align="right">
+<div align="center">
   <a href="#english">🇬🇧 English</a> | <a href="#serbian">SRB</a>
 </div>
 
 <a name="english"></a>
 
+<div align="center">
+
 # 👋 Hello, I'm o0o0o0o!
+
+</div>
 
 <div align="center">
   <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1F6FEB&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+Software+Engineer;Open+Source+Enthusiast+%26+Contributor;AI-Powered+Development+Advocate;Automation+%26+DevOps+Specialist;Problem+Solver+%7C+Code+Craftsman">
@@ -17,21 +21,34 @@
   
   [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-blue?style=for-the-badge)](https://mojportfolio.vercel.app)
   [![Twitter](https://img.shields.io/badge/Twitter-@KoronVirus-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/KoronVirus)
-  [![GitHub](https://img.shields.io/badge/GitHub-o0o0o0o-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/o0o0o0o)
+  [![GitHub](https://img.shields.io/badge/GitHub-zoxknez-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zoxknez)
   
 </div>
 
 ---
 
+<div align="center">
+
 ## 🌟 About Me
+
+</div>
+
+<div align="center">
 
 Professional software engineer with a passion for **open source**, **automation**, and **AI-powered coding solutions**. I actively contribute to various projects and love sharing knowledge with the community. My focus is on building scalable, maintainable solutions while embracing modern development practices.
 
+</div>
+
+<div align="center">
+
 ### 🎯 Quick Facts
+
+</div>
 
 ```typescript
 const developer = {
   name: "o0o0o0o",
+  username: "zoxknez",
   role: "Full Stack Developer",
   location: "🌍 Remote",
   focus: ["Web Development", "Automation", "AI Integration", "DevOps"],
@@ -155,41 +172,53 @@ const developer = {
 
 ---
 
+<div align="center">
+
 ## 📊 GitHub Statistics
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=o0o0o0o&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=o0o0o0o&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=o0o0o0o&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zoxknez&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zoxknez&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=o0o0o0o&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophy" />
+  <img src="https://streak-stats.demolab.com/?user=zoxknez&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=zoxknez&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophy" />
 </div>
 
 ---
 
+<div align="center">
+
 ## 🚀 Featured Projects
+
+</div>
 
 <div align="center">
 
 | 🌟 Project | 📝 Description | 💻 Tech Stack | ⭐ Stars |
 |-----------|---------------|--------------|----------|
-| **[ai-coding-rules](https://github.com/o0o0o0o/ai-coding-rules)** | Comprehensive AI coding best practices and guidelines | Shell, Markdown | ![Stars](https://img.shields.io/github/stars/o0o0o0o/ai-coding-rules?style=social) |
-| **[KorisneWindowsPowerShellSkripte](https://github.com/o0o0o0o/KorisneWindowsPowerShellSkripte)** | Useful PowerShell scripts for Windows automation | PowerShell | ![Stars](https://img.shields.io/github/stars/o0o0o0o/KorisneWindowsPowerShellSkripte?style=social) |
-| **[Twitter-X-Block-Manager](https://github.com/o0o0o0o/Twitter-X-Block-Manager)** | Advanced block management tool for Twitter/X | JavaScript | ![Stars](https://img.shields.io/github/stars/o0o0o0o/Twitter-X-Block-Manager?style=social) |
-| **[post-vibe-audit](https://github.com/o0o0o0o/post-vibe-audit)** | Social media post analysis and audit tool | Python | ![Stars](https://img.shields.io/github/stars/o0o0o0o/post-vibe-audit?style=social) |
-| **[metabot](https://github.com/o0o0o0o/metabot)** | Intelligent bot with metaprogramming capabilities | JavaScript | ![Stars](https://img.shields.io/github/stars/o0o0o0o/metabot?style=social) |
-| **[legalniservisidownloadvideo](https://github.com/o0o0o0o/legalniservisidownloadvideo)** | Video download and processing toolkit | Python | ![Stars](https://img.shields.io/github/stars/o0o0o0o/legalniservisidownloadvideo?style=social) |
+| **[ai-coding-rules](https://github.com/zoxknez/ai-coding-rules)** | Comprehensive AI coding best practices and guidelines | Shell, Markdown | ![Stars](https://img.shields.io/github/stars/zoxknez/ai-coding-rules?style=social) |
+| **[KorisneWindowsPowerShellSkripte](https://github.com/zoxknez/KorisneWindowsPowerShellSkripte)** | Useful PowerShell scripts for Windows automation | PowerShell | ![Stars](https://img.shields.io/github/stars/zoxknez/KorisneWindowsPowerShellSkripte?style=social) |
+| **[Twitter-X-Block-Manager](https://github.com/zoxknez/Twitter-X-Block-Manager)** | Advanced block management tool for Twitter/X | JavaScript | ![Stars](https://img.shields.io/github/stars/zoxknez/Twitter-X-Block-Manager?style=social) |
+| **[post-vibe-audit](https://github.com/zoxknez/post-vibe-audit)** | Social media post analysis and audit tool | Python | ![Stars](https://img.shields.io/github/stars/zoxknez/post-vibe-audit?style=social) |
+| **[metabot](https://github.com/zoxknez/metabot)** | Intelligent bot with metaprogramming capabilities | JavaScript | ![Stars](https://img.shields.io/github/stars/zoxknez/metabot?style=social) |
+| **[legalniservisidownloadvideo](https://github.com/zoxknez/legalniservisidownloadvideo)** | Video download and processing toolkit | Python | ![Stars](https://img.shields.io/github/stars/zoxknez/legalniservisidownloadvideo?style=social) |
 
 </div>
 
 ---
 
+<div align="center">
+
 ## 💼 What I'm Currently Working On
+
+</div>
 
 <div align="center">
 
@@ -204,20 +233,33 @@ graph LR
 
 </div>
 
-- 🔨 Building **scalable full-stack applications** with modern frameworks
-- 🤖 Experimenting with **AI-powered development** tools and workflows
-- 📚 Mastering **cloud architecture** and **microservices** patterns
-- 🔧 Creating **automation tools** for enhanced productivity
-- 🌍 Contributing to **open source** projects and communities
-- 📝 Writing **technical documentation** and sharing knowledge
+<div align="center">
+
+🔨 Building **scalable full-stack applications** with modern frameworks
+
+🤖 Experimenting with **AI-powered development** tools and workflows
+
+📚 Mastering **cloud architecture** and **microservices** patterns
+
+🔧 Creating **automation tools** for enhanced productivity
+
+🌍 Contributing to **open source** projects and communities
+
+📝 Writing **technical documentation** and sharing knowledge
+
+</div>
 
 ---
 
+<div align="center">
+
 ## 📈 Contribution Activity
+
+</div>
 
 <div align="center">
 
-![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=o0o0o0o&theme=tokyo-night&hide_border=true&area=true)
+![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=zoxknez&theme=tokyo-night&hide_border=true&area=true)
 
 </div>
 
@@ -229,7 +271,11 @@ graph LR
 
 ---
 
+<div align="center">
+
 ## 💡 Philosophy & Motivation
+
+</div>
 
 <div align="center">
 
@@ -241,7 +287,11 @@ graph LR
 
 ---
 
+<div align="center">
+
 ## 🤝 Let's Connect & Collaborate!
+
+</div>
 
 <div align="center">
 
@@ -262,7 +312,7 @@ graph LR
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/o0o0o0o">
+      <a href="https://github.com/zoxknez">
         <img src="https://img.icons8.com/color/96/000000/github.png" width="64" height="64" alt="GitHub"/>
         <br><strong>GitHub</strong>
       </a>
@@ -289,7 +339,7 @@ graph LR
 *I regularly publish new projects and updates. Feel free to explore and star repositories you find interesting!*
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=o0o0o0o&label=Profile%20Views&color=1F6FEB&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=zoxknez&label=Profile%20Views&color=1F6FEB&style=for-the-badge" alt="Profile Views" />
 </p>
 
 **⭐ If you like my work, consider giving a star to my repositories!**
@@ -302,7 +352,11 @@ graph LR
 
 <a name="serbian"></a>
 
+<div align="center">
+
 # 👋 Pozdrav, ja sam o0o0o0o!
+
+</div>
 
 <div align="center">
   <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1F6FEB&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+Softverski+Inženjer;Open+Source+Entuzijasta+%26+Kontributor;AI-Powered+Development+Advokat;Automatizacija+%26+DevOps+Specijalista;Problem+Solver+%7C+Code+Craftsman">
@@ -314,21 +368,34 @@ graph LR
   
   [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Poseti_Sada-blue?style=for-the-badge)](https://mojportfolio.vercel.app)
   [![Twitter](https://img.shields.io/badge/Twitter-@KoronVirus-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/KoronVirus)
-  [![GitHub](https://img.shields.io/badge/GitHub-o0o0o0o-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/o0o0o0o)
+  [![GitHub](https://img.shields.io/badge/GitHub-zoxknez-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zoxknez)
   
 </div>
 
 ---
 
+<div align="center">
+
 ## 🌟 O meni
+
+</div>
+
+<div align="center">
 
 Profesionalni softverski inženjer sa strašću za **open source**, **automatizacijom** i **AI-powered coding rešenjima**. Aktivno doprinosim različitim projektima i volim da delim znanje sa zajednicom. Moj fokus je na izgradnji skalabilnih, održivih rešenja uz prihvatanje modernih razvojnih praksi.
 
+</div>
+
+<div align="center">
+
 ### 🎯 Brze činjenice
+
+</div>
 
 ```typescript
 const developer = {
   ime: "o0o0o0o",
+  username: "zoxknez",
   uloga: "Full Stack Developer",
   lokacija: "🌍 Remote",
   fokus: ["Web Development", "Automatizacija", "AI Integracija", "DevOps"],
@@ -452,41 +519,53 @@ const developer = {
 
 ---
 
+<div align="center">
+
 ## 📊 GitHub statistika
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=o0o0o0o&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=o0o0o0o&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=o0o0o0o&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zoxknez&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zoxknez&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=o0o0o0o&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophy" />
+  <img src="https://streak-stats.demolab.com/?user=zoxknez&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=zoxknez&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophy" />
 </div>
 
 ---
 
+<div align="center">
+
 ## 🚀 Istaknuti projekti
+
+</div>
 
 <div align="center">
 
 | 🌟 Projekat | 📝 Opis | 💻 Tehnologije | ⭐ Zvezdice |
 |-----------|---------|---------------|-------------|
-| **[ai-coding-rules](https://github.com/o0o0o0o/ai-coding-rules)** | Sveobuhvatne AI coding best practices i smernice | Shell, Markdown | ![Stars](https://img.shields.io/github/stars/o0o0o0o/ai-coding-rules?style=social) |
-| **[KorisneWindowsPowerShellSkripte](https://github.com/o0o0o0o/KorisneWindowsPowerShellSkripte)** | Korisne PowerShell skripte za Windows automatizaciju | PowerShell | ![Stars](https://img.shields.io/github/stars/o0o0o0o/KorisneWindowsPowerShellSkripte?style=social) |
-| **[Twitter-X-Block-Manager](https://github.com/o0o0o0o/Twitter-X-Block-Manager)** | Napredni alat za upravljanje blokiranjem na Twitter/X | JavaScript | ![Stars](https://img.shields.io/github/stars/o0o0o0o/Twitter-X-Block-Manager?style=social) |
-| **[post-vibe-audit](https://github.com/o0o0o0o/post-vibe-audit)** | Alat za analizu i audit postova na društvenim mrežama | Python | ![Stars](https://img.shields.io/github/stars/o0o0o0o/post-vibe-audit?style=social) |
-| **[metabot](https://github.com/o0o0o0o/metabot)** | Inteligentni bot sa metaprogramiranjem mogućnostima | JavaScript | ![Stars](https://img.shields.io/github/stars/o0o0o0o/metabot?style=social) |
-| **[legalniservisidownloadvideo](https://github.com/o0o0o0o/legalniservisidownloadvideo)** | Alatka za preuzimanje i obradu video sadržaja | Python | ![Stars](https://img.shields.io/github/stars/o0o0o0o/legalniservisidownloadvideo?style=social) |
+| **[ai-coding-rules](https://github.com/zoxknez/ai-coding-rules)** | Sveobuhvatne AI coding best practices i smernice | Shell, Markdown | ![Stars](https://img.shields.io/github/stars/zoxknez/ai-coding-rules?style=social) |
+| **[KorisneWindowsPowerShellSkripte](https://github.com/zoxknez/KorisneWindowsPowerShellSkripte)** | Korisne PowerShell skripte za Windows automatizaciju | PowerShell | ![Stars](https://img.shields.io/github/stars/zoxknez/KorisneWindowsPowerShellSkripte?style=social) |
+| **[Twitter-X-Block-Manager](https://github.com/zoxknez/Twitter-X-Block-Manager)** | Napredni alat za upravljanje blokiranjem na Twitter/X | JavaScript | ![Stars](https://img.shields.io/github/stars/zoxknez/Twitter-X-Block-Manager?style=social) |
+| **[post-vibe-audit](https://github.com/zoxknez/post-vibe-audit)** | Alat za analizu i audit postova na društvenim mrežama | Python | ![Stars](https://img.shields.io/github/stars/zoxknez/post-vibe-audit?style=social) |
+| **[metabot](https://github.com/zoxknez/metabot)** | Inteligentni bot sa metaprogramiranjem mogućnostima | JavaScript | ![Stars](https://img.shields.io/github/stars/zoxknez/metabot?style=social) |
+| **[legalniservisidownloadvideo](https://github.com/zoxknez/legalniservisidownloadvideo)** | Alatka za preuzimanje i obradu video sadržaja | Python | ![Stars](https://img.shields.io/github/stars/zoxknez/legalniservisidownloadvideo?style=social) |
 
 </div>
 
 ---
 
+<div align="center">
+
 ## 💼 Šta trenutno radim
+
+</div>
 
 <div align="center">
 
@@ -501,20 +580,33 @@ graph LR
 
 </div>
 
-- 🔨 Izgradnja **skalabilnih full-stack aplikacija** sa modernim framework-ima
-- 🤖 Eksperimentisanje sa **AI-powered development** alatima i workflow-ima
-- 📚 Savladavanje **cloud arhitekture** i **microservices** paterna
-- 🔧 Kreiranje **alata za automatizaciju** za poboljšanu produktivnost
-- 🌍 Doprinos **open source** projektima i zajednicama
-- 📝 Pisanje **tehničke dokumentacije** i deljenje znanja
+<div align="center">
+
+🔨 Izgradnja **skalabilnih full-stack aplikacija** sa modernim framework-ima
+
+🤖 Eksperimentisanje sa **AI-powered development** alatima i workflow-ima
+
+📚 Savladavanje **cloud arhitekture** i **microservices** paterna
+
+🔧 Kreiranje **alata za automatizaciju** za poboljšanu produktivnost
+
+🌍 Doprinos **open source** projektima i zajednicama
+
+📝 Pisanje **tehničke dokumentacije** i deljenje znanja
+
+</div>
 
 ---
 
+<div align="center">
+
 ## 📈 Aktivnost doprinosa
+
+</div>
 
 <div align="center">
 
-![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=o0o0o0o&theme=tokyo-night&hide_border=true&area=true)
+![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=zoxknez&theme=tokyo-night&hide_border=true&area=true)
 
 </div>
 
@@ -526,7 +618,11 @@ graph LR
 
 ---
 
+<div align="center">
+
 ## 💡 Filozofija i motivacija
+
+</div>
 
 <div align="center">
 
@@ -538,7 +634,11 @@ graph LR
 
 ---
 
+<div align="center">
+
 ## 🤝 Povežimo se i sarađujmo!
+
+</div>
 
 <div align="center">
 
@@ -559,7 +659,7 @@ graph LR
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/o0o0o0o">
+      <a href="https://github.com/zoxknez">
         <img src="https://img.icons8.com/color/96/000000/github.png" width="64" height="64" alt="GitHub"/>
         <br><strong>GitHub</strong>
       </a>
@@ -586,7 +686,7 @@ graph LR
 *Redovno objavljujem nove projekte i ažuriranja. Slobodno istražite i dajte zvezdicu repozitorijumima koji vam se sviđaju!*
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=o0o0o0o&label=Pregledi%20profila&color=1F6FEB&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=zoxknez&label=Pregledi%20profila&color=1F6FEB&style=for-the-badge" alt="Profile Views" />
 </p>
 
 **⭐ Ako vam se sviđa moj rad, razmislite o davanju zvezdice mojim repozitorijumima!**
