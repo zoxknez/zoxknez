@@ -302,17 +302,17 @@ graph LR
 
 <a name="serbian"></a>
 
-# 👋 Поздрав, ја сам o0o0o0o!
+# 👋 Pozdrav, ja sam o0o0o0o!
 
 <div align="center">
-  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1F6FEB&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+Софтверски+Инжењер;Open+Source+Ентузијаста+%26+Контрибутор;AI-Powered+Development+Адвокат;Аутоматизација+%26+DevOps+Специјалиста;Problem+Solver+%7C+Code+Craftsman">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1F6FEB&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+Софтверски+Инжењер;Open+Source+Ентузијаста+%26+Контрибутор;AI-Powered+Development+Адвокат;Аутоматизација+%26+DevOps+Специјалиста;Problem+Solver+%7C+Code+Craftsman" alt="Typing SVG" />
+  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1F6FEB&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+Softverski+Inženjer;Open+Source+Entuzijasta+%26+Kontributor;AI-Powered+Development+Advokat;Automatizacija+%26+DevOps+Specijalista;Problem+Solver+%7C+Code+Craftsman">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1F6FEB&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+Softverski+Inženjer;Open+Source+Entuzijasta+%26+Kontributor;AI-Powered+Development+Advokat;Automatizacija+%26+DevOps+Specijalista;Problem+Solver+%7C+Code+Craftsman" alt="Typing SVG" />
   </a>
 </div>
 
 <div align="center">
   
-  [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Посети_Сада-blue?style=for-the-badge)](https://mojportfolio.vercel.app)
+  [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Poseti_Sada-blue?style=for-the-badge)](https://mojportfolio.vercel.app)
   [![Twitter](https://img.shields.io/badge/Twitter-@KoronVirus-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/KoronVirus)
   [![GitHub](https://img.shields.io/badge/GitHub-o0o0o0o-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/o0o0o0o)
   
@@ -320,11 +320,11 @@ graph LR
 
 ---
 
-## 🌟 О мени
+## 🌟 O meni
 
-Професионални софтверски инжењер са страшћу за **open source**, **аутоматизацијом** и **AI-powered coding решењима**. Активно доприносим различитим пројектима и волим да делим знање са заједницом. Мој фокус је на изградњи скалабилних, одрживих решења уз прихватање модерних развојних пракси.
+Profesionalni softverski inženjer sa strašću za **open source**, **automatizacijom** i **AI-powered coding rešenjima**. Aktivno doprinosim različitim projektima i volim da delim znanje sa zajednicom. Moj fokus je na izgradnji skalabilnih, održivih rešenja uz prihvatanje modernih razvojnih praksi.
 
-### 🎯 Брзе чињенице
+### 🎯 Brze činjenice
 
 ```typescript
 const developer = {
@@ -340,9 +340,9 @@ const developer = {
 
 ---
 
-## 🛠️ Технолошки стек и вештине
+## 🛠️ Tehnološki stek i veštine
 
-### 💻 Програмски језици
+### 💻 Programski jezici
 
 <div align="center">
 
@@ -362,7 +362,7 @@ const developer = {
 
 </div>
 
-### 🎨 Frontend развој
+### 🎨 Frontend razvoj
 
 <div align="center">
 
@@ -378,7 +378,7 @@ const developer = {
 
 </div>
 
-### ⚙️ Backend и базе података
+### ⚙️ Backend i baze podataka
 
 <div align="center">
 
@@ -395,7 +395,7 @@ const developer = {
 
 </div>
 
-### 🔧 DevOps и алати
+### 🔧 DevOps i alati
 
 <div align="center">
 
@@ -412,7 +412,7 @@ const developer = {
 
 </div>
 
-### 🤖 AI и машинско учење
+### 🤖 AI i mašinsko učenje
 
 <div align="center">
 
@@ -423,36 +423,36 @@ const developer = {
 
 </div>
 
-### 📦 Кључне компетенције
+### 📦 Ključne kompetencije
 
 <table align="center">
   <tr>
     <td align="center" width="25%">
       <img src="https://img.icons8.com/color/96/000000/artificial-intelligence.png" width="48" height="48" alt="AI"/>
-      <br><strong>AI-Powered развој</strong>
-      <br><sub>Коришћење AI алата за оптимизацију кода и интелигентна решења</sub>
+      <br><strong>AI-Powered razvoj</strong>
+      <br><sub>Korišćenje AI alata za optimizaciju koda i inteligentna rešenja</sub>
     </td>
     <td align="center" width="25%">
       <img src="https://img.icons8.com/color/96/000000/automation.png" width="48" height="48" alt="Automation"/>
-      <br><strong>Аутоматизација</strong>
-      <br><sub>PowerShell, Bash скриптовање, CI/CD pipeline-ови</sub>
+      <br><strong>Automatizacija</strong>
+      <br><sub>PowerShell, Bash skriptovanje, CI/CD pipeline-ovi</sub>
     </td>
     <td align="center" width="25%">
       <img src="https://img.icons8.com/color/96/000000/open-source.png" width="48" height="48" alt="Open Source"/>
       <br><strong>Open Source</strong>
-      <br><sub>Активан контрибутор пројектима заједнице</sub>
+      <br><sub>Aktivan kontributor projektima zajednice</sub>
     </td>
     <td align="center" width="25%">
       <img src="https://img.icons8.com/color/96/000000/web-design.png" width="48" height="48" alt="Full Stack"/>
       <br><strong>Full Stack</strong>
-      <br><sub>Развој апликација од почетка до краја</sub>
+      <br><sub>Razvoj aplikacija od početka do kraja</sub>
     </td>
   </tr>
 </table>
 
 ---
 
-## 📊 GitHub статистика
+## 📊 GitHub statistika
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=o0o0o0o&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
@@ -469,48 +469,48 @@ const developer = {
 
 ---
 
-## 🚀 Истакнути пројекти
+## 🚀 Istaknuti projekti
 
 <div align="center">
 
-| 🌟 Пројекат | 📝 Опис | 💻 Технологије | ⭐ Звездице |
+| 🌟 Projekat | 📝 Opis | 💻 Tehnologije | ⭐ Zvezdice |
 |-----------|---------|---------------|-------------|
-| **[ai-coding-rules](https://github.com/o0o0o0o/ai-coding-rules)** | Свеобухватне AI coding best practices и смернице | Shell, Markdown | ![Stars](https://img.shields.io/github/stars/o0o0o0o/ai-coding-rules?style=social) |
-| **[KorisneWindowsPowerShellSkripte](https://github.com/o0o0o0o/KorisneWindowsPowerShellSkripte)** | Корисне PowerShell скрипте за Windows аутоматизацију | PowerShell | ![Stars](https://img.shields.io/github/stars/o0o0o0o/KorisneWindowsPowerShellSkripte?style=social) |
-| **[Twitter-X-Block-Manager](https://github.com/o0o0o0o/Twitter-X-Block-Manager)** | Напредни алат за управљање блокирањем на Twitter/X | JavaScript | ![Stars](https://img.shields.io/github/stars/o0o0o0o/Twitter-X-Block-Manager?style=social) |
-| **[post-vibe-audit](https://github.com/o0o0o0o/post-vibe-audit)** | Алат за анализу и аудит постова на друштвеним мрежама | Python | ![Stars](https://img.shields.io/github/stars/o0o0o0o/post-vibe-audit?style=social) |
-| **[metabot](https://github.com/o0o0o0o/metabot)** | Интелигентни бот са метапрограмирањем могућностима | JavaScript | ![Stars](https://img.shields.io/github/stars/o0o0o0o/metabot?style=social) |
-| **[legalniservisidownloadvideo](https://github.com/o0o0o0o/legalniservisidownloadvideo)** | Алатка за преузимање и обраду видео садржаја | Python | ![Stars](https://img.shields.io/github/stars/o0o0o0o/legalniservisidownloadvideo?style=social) |
+| **[ai-coding-rules](https://github.com/o0o0o0o/ai-coding-rules)** | Sveobuhvatne AI coding best practices i smernice | Shell, Markdown | ![Stars](https://img.shields.io/github/stars/o0o0o0o/ai-coding-rules?style=social) |
+| **[KorisneWindowsPowerShellSkripte](https://github.com/o0o0o0o/KorisneWindowsPowerShellSkripte)** | Korisne PowerShell skripte za Windows automatizaciju | PowerShell | ![Stars](https://img.shields.io/github/stars/o0o0o0o/KorisneWindowsPowerShellSkripte?style=social) |
+| **[Twitter-X-Block-Manager](https://github.com/o0o0o0o/Twitter-X-Block-Manager)** | Napredni alat za upravljanje blokiranjem na Twitter/X | JavaScript | ![Stars](https://img.shields.io/github/stars/o0o0o0o/Twitter-X-Block-Manager?style=social) |
+| **[post-vibe-audit](https://github.com/o0o0o0o/post-vibe-audit)** | Alat za analizu i audit postova na društvenim mrežama | Python | ![Stars](https://img.shields.io/github/stars/o0o0o0o/post-vibe-audit?style=social) |
+| **[metabot](https://github.com/o0o0o0o/metabot)** | Inteligentni bot sa metaprogramiranjem mogućnostima | JavaScript | ![Stars](https://img.shields.io/github/stars/o0o0o0o/metabot?style=social) |
+| **[legalniservisidownloadvideo](https://github.com/o0o0o0o/legalniservisidownloadvideo)** | Alatka za preuzimanje i obradu video sadržaja | Python | ![Stars](https://img.shields.io/github/stars/o0o0o0o/legalniservisidownloadvideo?style=social) |
 
 </div>
 
 ---
 
-## 💼 Шта тренутно радим
+## 💼 Šta trenutno radim
 
 <div align="center">
 
 ```mermaid
 graph LR
-    A[💻 Full Stack апликације] --> B[🤖 AI интеграција]
-    B --> C[🔄 Алати за аутоматизацију]
-    C --> D[📚 Учење и раст]
+    A[💻 Full Stack aplikacije] --> B[🤖 AI integracija]
+    B --> C[🔄 Alati za automatizaciju]
+    C --> D[📚 Učenje i rast]
     D --> E[🌍 Open Source]
     E --> A
 ```
 
 </div>
 
-- 🔨 Изградња **скалабилних full-stack апликација** са модерним framework-има
-- 🤖 Експериментисање са **AI-powered development** алатима и workflow-има
-- 📚 Савладавање **cloud архитектуре** и **microservices** патерна
-- 🔧 Креирање **алата за аутоматизацију** за побољшану продуктивност
-- 🌍 Допринос **open source** пројектима и заједницама
-- 📝 Писање **техничке документације** и дељење знања
+- 🔨 Izgradnja **skalabilnih full-stack aplikacija** sa modernim framework-ima
+- 🤖 Eksperimentisanje sa **AI-powered development** alatima i workflow-ima
+- 📚 Savladavanje **cloud arhitekture** i **microservices** paterna
+- 🔧 Kreiranje **alata za automatizaciju** za poboljšanu produktivnost
+- 🌍 Doprinos **open source** projektima i zajednicama
+- 📝 Pisanje **tehničke dokumentacije** i deljenje znanja
 
 ---
 
-## 📈 Активност доприноса
+## 📈 Aktivnost doprinosa
 
 <div align="center">
 
@@ -520,29 +520,29 @@ graph LR
 
 <div align="center">
 
-### 🎯 **695+ доприноса** у последњој години! 🎉
+### 🎯 **695+ doprinosa** u poslednjoj godini! 🎉
 
 </div>
 
 ---
 
-## 💡 Филозофија и мотивација
+## 💡 Filozofija i motivacija
 
 <div align="center">
 
-> *"Код је поезија написана у логици. Сваки commit је строфа, сваки пројекат ремек-дело у настајању."*
+> *"Kod je poezija napisana u logici. Svaki commit je strofa, svaki projekat remek-delo u nastajanju."*
 
-> *"Најбољи код није само функционалан—он је елегантан, одржив и прича причу."*
+> *"Najbolji kod nije samo funkcionalan—on je elegantan, održiv i priča priču."*
 
 </div>
 
 ---
 
-## 🤝 Повежимо се и сарађујмо!
+## 🤝 Povežimo se i sarađujmo!
 
 <div align="center">
 
-### Заинтересовани сте за сарадњу? Хајде да изградимо нешто невероватно заједно! 🚀
+### Zainteresovani ste za saradnju? Hajde da izgradimo nešto neverovatno zajedno! 🚀
 
 <table>
   <tr>
@@ -573,7 +573,7 @@ graph LR
   </tr>
 </table>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Посети_Мој_Portfolio-Кликни_Овде-blue?style=for-the-badge)](https://mojportfolio.vercel.app)
+[![Portfolio](https://img.shields.io/badge/🌐_Poseti_Moj_Portfolio-Klikni_Ovde-blue?style=for-the-badge)](https://mojportfolio.vercel.app)
 
 </div>
 
@@ -581,14 +581,14 @@ graph LR
 
 <div align="center">
 
-### Хвала што сте посетили мој профил! 👋
+### Hvala što ste posetili moj profil! 👋
 
-*Редовно објављујем нове пројекте и ажурирања. Слободно истражите и дајте звездицу репозиторијумима који вам се свиђају!*
+*Redovno objavljujem nove projekte i ažuriranja. Slobodno istražite i dajte zvezdicu repozitorijumima koji vam se sviđaju!*
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=o0o0o0o&label=Прегледи%20профила&color=1F6FEB&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=o0o0o0o&label=Pregledi%20profila&color=1F6FEB&style=for-the-badge" alt="Profile Views" />
 </p>
 
-**⭐ Ако вам се свиђа мој рад, размислите о давању звездице мојим репозиторијумима!**
+**⭐ Ako vam se sviđa moj rad, razmislite o davanju zvezdice mojim repozitorijumima!**
 
 </div>
