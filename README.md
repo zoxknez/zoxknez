@@ -1,6 +1,6 @@
 <!-- Language Selector -->
 <div align="right">
-  <a href="#english">🇬🇧 English</a> | <a href="#serbian">🇷🇸 Српски</a>
+  <a href="#english">🇬🇧 English</a> | <a href="#serbian">SRB</a>
 </div>
 
 <a name="english"></a>
