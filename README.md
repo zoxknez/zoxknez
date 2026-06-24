@@ -153,7 +153,7 @@ const developer = {
       <br><sub>Leveraging AI tools for code optimization and intelligent solutions</sub>
     </td>
     <td align="center" width="25%">
-      <img src="https://img.icons8.com/color/96/000000/automation.png" width="48" height="48" alt="Automation"/>
+      <img src="https://img.icons8.com/fluency/96/000000/workflow.png" width="48" height="48" alt="Automation"/>
       <br><strong>Automation</strong>
       <br><sub>PowerShell, Bash scripting, CI/CD pipelines</sub>
     </td>
@@ -500,7 +500,7 @@ const developer = {
       <br><sub>Korišćenje AI alata za optimizaciju koda i inteligentna rešenja</sub>
     </td>
     <td align="center" width="25%">
-      <img src="https://img.icons8.com/color/96/000000/automation.png" width="48" height="48" alt="Automation"/>
+      <img src="https://img.icons8.com/fluency/96/000000/workflow.png" width="48" height="48" alt="Automation"/>
       <br><strong>Automatizacija</strong>
       <br><sub>PowerShell, Bash skriptovanje, CI/CD pipeline-ovi</sub>
     </td>
