@@ -14,7 +14,7 @@
 
 ---
 
-## ⚡ Engineering Focus & Philosophy
+<h2 align="center">⚡ Engineering Focus &amp; Philosophy</h2>
 
 I build and harden software systems across **web, desktop, native runtimes and automated infrastructure**. My primary focus is transforming development from guesswork into verifiable certainty: creating **deterministic tests, reproducible bug isolation, tamper-evident evidence, and automated release gates**.
 
@@ -27,7 +27,7 @@ I utilize AI-assisted workflows with strict boundary verification: tests, static
 
 ---
 
-## 🛡️ Quality Engineering & Reliability Practice
+<h2 align="center">🛡️ Quality Engineering &amp; Reliability Practice</h2>
 
 Tools and methodologies applied across production repositories to enforce high stability and defect prevention:
 
@@ -41,7 +41,7 @@ Tools and methodologies applied across production repositories to enforce high s
 
 ---
 
-## 📂 Featured Systems & Architecture
+<h2 align="center">📂 Featured Systems &amp; Architecture</h2>
 
 Selected production tools, drivers, and automation frameworks:
 
@@ -55,7 +55,7 @@ Selected production tools, drivers, and automation frameworks:
 
 ---
 
-## 🛠️ Technical Arsenal
+<h2 align="center">🛠️ Technical Arsenal</h2>
 
 Full-width categorized overview of languages, frameworks, and verification tools:
 
@@ -68,7 +68,7 @@ Full-width categorized overview of languages, frameworks, and verification tools
 
 ---
 
-## ⚙️ Operating Principles
+<h2 align="center">⚙️ Operating Principles</h2>
 
 Core heuristics that govern day-to-day software architecture and defect triage:
 
