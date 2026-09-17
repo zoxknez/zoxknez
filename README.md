@@ -4,10 +4,13 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-mojportfolio.vercel.app-0F172A?style=for-the-badge&logo=vercel&logoColor=38BDF8)](https://mojportfolio.vercel.app)
-[![Repositories](https://img.shields.io/badge/Repositories-Public_Projects-0F172A?style=for-the-badge&logo=github&logoColor=F8FAFC)](https://github.com/zoxknez?tab=repositories)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-0F172A?style=for-the-badge&logo=vercel&logoColor=38BDF8)](https://mojportfolio.vercel.app)
+&nbsp;
+[![Repositories](https://img.shields.io/badge/Projects-45_Public_Repos-0F172A?style=for-the-badge&logo=github&logoColor=F8FAFC)](https://github.com/zoxknez?tab=repositories)
+&nbsp;
 [![X / Twitter](https://img.shields.io/badge/X_Twitter-@KoronVirus-0F172A?style=for-the-badge&logo=x&logoColor=F8FAFC)](https://x.com/KoronVirus)
-[![Status](https://img.shields.io/badge/Status-Open_For_Collaboration-0F172A?style=for-the-badge&logo=statuspage&logoColor=10B981)](https://mojportfolio.vercel.app#contact)
+&nbsp;
+[![Status](https://img.shields.io/badge/Status-Available-0F172A?style=for-the-badge&logo=statuspage&logoColor=10B981)](https://mojportfolio.vercel.app#contact)
 
 </div>
 
